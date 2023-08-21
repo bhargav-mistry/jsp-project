@@ -1,4 +1,4 @@
-# Simple example with JSP Efficient-Tasks-App
+# Simple example with JSP
 
 This example shows how to work with Java Server Pages
 
